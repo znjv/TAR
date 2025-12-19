@@ -82,5 +82,5 @@ This project demonstrates practical data cleaning and feature engineering skills
 ---
 
 ## 📌 Author
-Sanjeev R 
-- Aspiring Data Analyst  
+**Sanjeev R **
+Aspiring Data Analyst  
