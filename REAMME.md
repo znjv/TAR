@@ -49,20 +49,13 @@ The raw dataset was unstructured and required multiple transformations to make i
 - Best Performing Cuisine
 - Cuisine-wise Sales Share %
 
-### Profitability & Expense Metrics
+### Profitability Metrics
 - Profit Margin %
-- Profit Status (Profit / Loss / Break-even)
-- Expense Ratio %
 
 ### Employee Productivity Metrics
 - Sales per Employee
-- Profit per Employee
 - Gender Ratio (%)
 
-### KPI Flags
-- High Revenue Branch
-- High Expense Branch
-- High Profit Branch
 
 ---
 
@@ -89,5 +82,5 @@ This project demonstrates practical data cleaning and feature engineering skills
 ---
 
 ## 📌 Author
-**Sanjeev R**  
+Sanjeev R 
 Aspiring Data Analyst  
